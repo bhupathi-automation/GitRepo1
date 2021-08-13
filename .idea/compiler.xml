@@ -9,5 +9,8 @@
         <module name="RestAPITesting" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="RestAPITesting" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
