@@ -6,6 +6,10 @@ public class PracticeTest {
         System.out.println("This is test class");
         System.out.println("ADDED NEW Line: This is test class");
 
+
         System.out.println("Print #1 - GitLocal");
+
+        System.out.println("Print #2 - GitRepo1");
+
     }
 }
