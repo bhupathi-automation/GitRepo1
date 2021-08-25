@@ -8,5 +8,6 @@ public class PracticeTest {
 
         System.out.println("Print #2 - GitRepo1");
         System.out.println("Print #3 - GitRepo1 - from Develop branch");
+        System.out.println("Print #4 - GitLocal folder - from Master branch");
     }
 }
